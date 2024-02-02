@@ -1,0 +1,160 @@
+@media screen and (max-width:992px) {
+    .background {
+        display: none;
+    }
+
+    .lg_right {
+        display: none;
+    }
+
+    #s1 .sl_1_info {
+        left: 10%;
+    }
+
+    #s1 .sl_1_info h2 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    #s1 .sl_btn a {
+        background-color: #619F7B;
+        padding: 10px 20px;
+        color: white;
+        font-size: 10px;
+    }
+
+    
+
+    #s3 .owl-dots {
+        top: 460px;
+    }
+
+    #s4 .owl-dots {
+        top: 350px;
+    }
+
+    .about1_info h1 {
+        font-size: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .Produce1_info h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .score_info {
+        padding: 60px 0px;
+    }
+
+    .score_info h1 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .owl-theme .owl-dots {
+        top: 300px;
+    }
+
+    #s3 .owl-dots {
+        top: 470px;
+    }
+
+    #s4 .owl-dots {
+        top: 370px;
+    }
+
+    #s1 .sl_1_info {
+        left: 7%;
+    }
+
+    .score_info {
+        padding: 60px 0px;
+    }
+
+    .score_info h1 {
+        font-size: 40px;
+    }
+
+    .produce1_info h1 {
+        font-size: 5px;
+    }
+
+    .Produce1_info h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .stack1 {
+        padding-top: 50px !important;
+        padding-bottom: 50px !important;
+        padding: 0px 10px;
+    }
+
+    .Page_info h1,.Contacts_info h1{
+        font-size: 30px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .owl-theme .owl-dots {
+        top: 300px;
+    }
+
+    #s1 .sl_1_info {
+        left: 5%;
+        top: 10%;
+    }
+
+    #s1 .sl_1_info h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #s1 .sl_1_info p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    #s1 .sl_btn a {
+        background-color: #619F7B;
+        padding: 10px 20px;
+        color: white;
+    }
+
+    #s3 .owl-dots {
+        top: 490px;
+    }
+
+    #s4 .owl-dots {
+        top: 350px;
+    }
+
+    .score_info {
+        padding: 10px 0px;
+    }
+
+    .score_info h1 {
+        font-size: 35px;
+    }
+    .Page_info,.Contacts_info{
+        left: 30%;
+    }
+    .Page_info h1,.Contacts_info h1{
+        font-size: 30px;
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width:1140px) {
+    
+}
+
+@media screen and (max-width:1200px) {
+    
+}
